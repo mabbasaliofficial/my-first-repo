@@ -9,6 +9,7 @@ span {
 }
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width {
     width: 50%;
@@ -29,4 +30,24 @@ section {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 
+}
+.half {
+    width: 50%;
+    padding-right: 2%;
+}
+.half img {
+    width: 80%;
+}
+.click-button2 {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.dream {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
