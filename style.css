@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+#first-section {
+    display: flex;
+}
+.welcome {
+    font-style: italic ;
+    font-size: 50px;
+}
+span {
+    color: orange;
+}
+#first-image {
+    width: 100%;
+}
+.button {
+   text-decoration: none;
+   padding: 40px 20px orange;
+
+}
